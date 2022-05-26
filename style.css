@@ -262,7 +262,7 @@ h2.heading {
 @media screen and (min-width:768px) and (max-width: 800px) {
     .hero__ctr__container button:first-of-type {
         margin-right: 0;
-        margin-bottom: 1rem;
+        margin-bottom: 1.6rem;
     }
 }
 
@@ -382,7 +382,7 @@ footer .container>*:not(.btn) {
 
     .hero__ctr__container button:first-of-type {
         margin-right: 0;
-        margin-bottom: 1rem;
+        margin-bottom: 1.6rem;
     }
 
     .divider--1 {
@@ -464,7 +464,7 @@ footer .container>*:not(.btn) {
 
     .hero__ctr__container button:first-of-type {
         margin-right: 0;
-        margin-bottom: 1rem;
+        margin-bottom: 1.6rem;
     }
 
     /* meeting */
