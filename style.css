@@ -410,7 +410,7 @@ footer .container>*:not(.btn) {
     .hero .hero__img--md {
         margin-bottom: 7.2rem;
         overflow: hidden;
-        transform: scaleX(1.1)
+        transform: scale(1.1)
     }
 
     .hero .hero__content {
