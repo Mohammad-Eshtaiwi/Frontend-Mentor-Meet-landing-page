@@ -236,7 +236,7 @@ h2.heading {
     display: flex;
     text-align: center;
     justify-content: center;
-    /* overflow: hidden; */
+    overflow: hidden;
     align-items: flex-start;
 }
 
